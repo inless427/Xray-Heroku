@@ -140,8 +140,8 @@ addEventListener(
 
 ## OpenWrt优选IP脚本自动更新：
 
-* [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt推荐-速度较快`
-* [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt推荐`
+* [CloudflareST](https://github.com/inless427/CloudflareST) `OpenWrt推荐-速度较快`
+* [cf-autoupdate](https://github.com/inless427/cf-autoupdate) `OpenWrt推荐`
 
 > [更多来自热心网友PR的使用教程](/tutorial)
 
